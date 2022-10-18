@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/darchievboris.github.io/food-recipe/static/css/main.70d64841.css",
+    "main.js": "/darchievboris.github.io/food-recipe/static/js/main.d67a5af3.js",
+    "index.html": "/darchievboris.github.io/food-recipe/index.html",
+    "main.70d64841.css.map": "/darchievboris.github.io/food-recipe/static/css/main.70d64841.css.map",
+    "main.d67a5af3.js.map": "/darchievboris.github.io/food-recipe/static/js/main.d67a5af3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70d64841.css",
+    "static/js/main.d67a5af3.js"
+  ]
+}
